@@ -1,6 +1,6 @@
 body{
     background-color: #0B0B3B!important;
-    background: url("BG.png") no-repeat center top fixed;
-    background-size:800px 900px;
+    background: url("BG.png") no-repeat 50% 36% fixed;
+    background-size:800px 950px;
     height: 500px;
 }
