@@ -1,5 +1,5 @@
 body{
-    background-color:  #bd9911 !important;
+    background-color:  #97790b !important;
     background: url("BG.png") no-repeat 50% 38% fixed;
     background-size: 47%;
     height: 100vh;
@@ -15,6 +15,6 @@ body{
   }
   #site { width: 100%; background-color:#262c3a; }
   #topo { width: 100%; padding: 10vh; background-color:#919191;}
-  #col1 { width: 15%; float: left; height: 100vh; background-color:#262c3a; }
-  #col2 { width: 70%; float: left; height: 100% ; }
-  #col3 { width: 15%; float: left; height: 100vh;; background-color:#262c3a;}
+  #col1 { width: 5%; float: left; height: 100vh; background-color:#262c3a; }
+  #col2 { width: 90%; float: left; height: 100% ; }
+  #col3 { width: 5%; float: left; height: 100vh;; background-color:#262c3a;}
