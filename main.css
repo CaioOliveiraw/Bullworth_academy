@@ -1,20 +1,20 @@
 body{
-    background-color:  #f2d44a !important;
-    background: url("BG.png") no-repeat 50% 36% fixed;
-    background-size:800px 950px;
-    height: 500px;
+    background-color:  #bd9911 !important;
+    background: url("BG.png") no-repeat 50% 38% fixed;
+    background-size: 47%;
+    height: 100vh;
 }
 
 .A1{
-    background-color:  #040958;
+    background-color:  #262c3a;
   }
 
   
 .A2{
     background-color:  #919191;
   }
-  #site { width: 100%; background-color:black; }
-  #topo { width: 100%; height: 200px; background-color:#919191;}
-  #col1 { width: 20%; float: left; height: 500px;background-color:black; }
-  #col2 { width: 60%; float: left; height: 100%; }
-  #col3 { width: 20%; float: left; height: 500px; background-color:black;}
+  #site { width: 100%; background-color:#262c3a; }
+  #topo { width: 100%; padding: 10vh; background-color:#919191;}
+  #col1 { width: 15%; float: left; height: 100vh; background-color:#262c3a; }
+  #col2 { width: 70%; float: left; height: 100% ; }
+  #col3 { width: 15%; float: left; height: 100vh;; background-color:#262c3a;}
