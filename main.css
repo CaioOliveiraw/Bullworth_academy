@@ -14,7 +14,7 @@ body{
     background-color:  #919191;
   }
   #site { width: 100%; background-color:#262c3a; }
-  #topo { width: 100%; padding: 10vh; background-color:#919191;}
+  #topo { width: 100%; height: 22vh; padding: 9vh; background-color:#919191;}
   #news { width: 100%; padding: 10vh; background-color:#91919100;}
   #col1 { width: 10%; float: left; height: 100vh; background-color:#262c3a; }
   #col2 { width: 80%; float: left; height: 100% ; }
@@ -33,4 +33,8 @@ body{
 
   .ctr{ text-align: center;
     padding: 2%
+}
+
+.pdg{ text-align: center;
+  padding: 2%
 }
