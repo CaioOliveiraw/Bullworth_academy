@@ -13,6 +13,17 @@ body{
 .A2{
     background-color:  #919191;
   }
+  
+/*-Configurações navbar-*/
+#navbar-color{
+  background-color: #242525
+}
+#font-navbar{
+  color:#ffffff
+}
+
+
+
   #site { width: 100%; background-color:#262c3a; }
   #topo { width: 100%; height: 22vh; padding: 9vh; background-color:#919191;}
   #news { width: 100%; padding: 10vh; background-color:#91919100;}
@@ -38,3 +49,13 @@ body{
 .pdg{ text-align: center;
   padding: 2%
 }
+
+
+fnt1{
+  font-size: 3vw;
+}
+
+fnt1{
+  font-size: 3vw;
+}
+
