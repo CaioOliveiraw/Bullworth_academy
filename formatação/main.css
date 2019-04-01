@@ -1,6 +1,6 @@
 body{
     background-color:  #97790b !important;
-    background: url("imagens/BG.png") no-repeat 50% 38% fixed;
+    background: url("../imagens/BG.png") no-repeat 50% 38% fixed;
     background-size: 47%;
     height: 100vh;
 }
